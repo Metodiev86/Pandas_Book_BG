@@ -1,0 +1,8 @@
+<books>
+  <book title="Книга 1">
+    <author>Автор 1</author>
+  </book>
+  <book title="Книга 2">
+    <author>Автор 2</author>
+  </book>
+</books>

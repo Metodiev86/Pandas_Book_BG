@@ -1,0 +1,7 @@
+<sensors>
+  <sensor id="S1" type="temperature" value="25.5"/>
+  <sensor id="S2" type="humidity" value="60.2"/>
+  <sensor id="S3" type="pressure" value="1012.3"/>
+</sensors>
+
+

@@ -1,0 +1,4 @@
+<items>
+  <item name="Продукт А" quantity="10" price="25.99" in_stock="true"/>
+  <item name="Продукт Б" quantity="5" price="120.50" in_stock="false"/>
+</items>

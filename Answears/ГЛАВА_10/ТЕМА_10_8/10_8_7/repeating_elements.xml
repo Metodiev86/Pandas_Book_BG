@@ -1,0 +1,7 @@
+<record>
+  <field name="name" value="Alice"/>
+  <field name="age" value="25"/>
+  <field name="city" value="Sofia"/>
+  <field name="interest" value="reading"/>
+  <field name="interest" value="hiking"/>
+</record>
